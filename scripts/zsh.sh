@@ -19,4 +19,4 @@ do
   fi
 done
 
-cp ./zsh/.zshrc ~/.zshrc
+cp ./config/.zshrc ~/.zshrc
