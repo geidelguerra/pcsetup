@@ -12,6 +12,7 @@ source ./scripts/fzf.sh
 source ./scripts/mongodb.sh
 source ./scripts/docker.sh
 source ./scripts/vscode.sh
+source ./scripts/ngrok.sh
 
 # # Cleanup
 sudo apt autoremove -y
