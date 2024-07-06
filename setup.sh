@@ -14,6 +14,7 @@ source ./scripts/mongodb-compass.sh
 source ./scripts/docker.sh
 source ./scripts/vscode.sh
 source ./scripts/ngrok.sh
+source ./scripts/nvm.sh
 
 # # Cleanup
 sudo apt autoremove -y
